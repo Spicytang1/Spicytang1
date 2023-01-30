@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @Spicytang1
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Data Science / Mathematics
+- 🌱 I’m currently learning ... Data Science / Mathematics (double major)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-C, C++, python, R
+- KOREA UNIVERSITY 21
+
+- C, C++, python, R
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oppenheimer)](https://solved.ac/oppenheimer/)
 
