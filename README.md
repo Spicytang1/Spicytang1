@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @Spicytang1
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Data Science / Mathematics (double major)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-- KOREA UNIVERSITY 21
+- KOREA UNIVERSITY 21 - Data Science + Mathematics (double major)
+- 고려대학교 21학번 - 데이터과학과, 수학과 (이중전공)
 
-- C, C++, python, R
+- languages: C, C++, python, R
+- learning: java
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oppenheimer)](https://solved.ac/oppenheimer/)
 
