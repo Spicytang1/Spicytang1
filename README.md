@@ -4,7 +4,7 @@
 - 고려대학교 21학번 - 데이터과학과, 수학과 (이중전공)
 
 - languages: C, C++, python, R
-- learning: java
+- learning: html/css/javascript, java
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oppenheimer)](https://solved.ac/oppenheimer/)
